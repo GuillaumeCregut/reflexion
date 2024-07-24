@@ -1,0 +1,16 @@
+{
+    "name": "warth/injecteur",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guillaume Crégut",
+            "email": "gcregut@free.fr"
+        }
+    ],
+    "require": {}
+}
